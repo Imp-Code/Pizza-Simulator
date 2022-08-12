@@ -1,0 +1,31 @@
+body {
+
+}
+
+.ClickButtonButton {
+  background-image: url(PizzaImage.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 12%;
+  height: 24%;
+  background-color: white;
+}
+
+.ClickButton {
+  padding-top: 30.5%;
+}
+
+.ClickButtonButton:active {
+  width: 12.3%;
+  height: 24.6%;
+}
+
+.CountNumber {
+  padding-left: 3%;
+  border: #CD6155 2px solid;
+  border-radius: 6%;
+  width: 15%;
+  background-image: url(PizzaImage.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
