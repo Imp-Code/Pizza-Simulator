@@ -8,6 +8,8 @@ if (localStorage.getItem('Fusion')) {
   localStorage.setItem('Fusion', 1000000);
 }
 
+localStorage.setItem('Fusion', 999991);
+
 let VariableX = 1000001 - localStorage.getItem('Fusion')
 
 document.getElementById('CountNumberID').innerHTML = 1000000000 - localStorage.getItem('Int');
